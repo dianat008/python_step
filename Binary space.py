@@ -1,6 +1,7 @@
-n = int(input())
-max_segments = ((n + 2) ** 2) // 4
-print(max_segments)    
+x=int(input())
+i=2
+while x/i>=1:
+  i=i*2print(i)   
 
 
 
